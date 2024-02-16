@@ -60,3 +60,4 @@ logical_not = not (num1 > 0)
 print("첫 번째 숫자와 두 번째 숫자 모두 양수인가?", logical_and)
 print("첫 번째 숫자 또는 두 번째 숫자 중 어느 하나가 양수인가?", logical_or)
 print("첫 번째 숫자가 양수가 아닌가?", logical_not)
+
